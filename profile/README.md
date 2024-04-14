@@ -1,8 +1,8 @@
-
-
-![dash_cover_ds](https://github.com/Brasil-Flutter/.github/assets/2637049/0d0126e7-5c4a-411e-a551-3e0f24a7a6ed)
+![dash_cover_ds](https://github.com/brasilflutter/.github/assets/2637049/2c4887d6-6bed-4c4f-a368-a2a23169475a)
 
 ## Flutter Brasil
+
+![flutter_br_logo_f_only](https://github.com/brasilflutter/.github/assets/2637049/4fbcb021-c9bf-4274-8c15-4edb905dfc2d)
 
 **Bem-vindo à comunidade Flutter Brasil!**
 
@@ -31,5 +31,5 @@ Este é um espaço para desenvolvedores Flutter no Brasil se conectarem, compart
 
 Esperamos que você se junte à nossa comunidade e aproveite os recursos que temos a oferecer!
 
-![size_test](https://github.com/Brasil-Flutter/.github/assets/2637049/df5f962f-d7f8-4220-9470-2ba3bcbe6610)
+![flutter_br_dash](https://github.com/brasilflutter/.github/assets/2637049/79c463b5-227e-44c1-9c0e-24a651223254)
 
