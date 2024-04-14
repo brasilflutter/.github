@@ -2,7 +2,7 @@
 
 ## Flutter Brasil
 
-![flutter_br_logo_f_only](https://github.com/brasilflutter/.github/assets/2637049/4fbcb021-c9bf-4274-8c15-4edb905dfc2d)
+![flutter_br_large](https://github.com/brasilflutter/.github/assets/2637049/63acc30f-34b0-4dcf-a958-f496704a5edb)
 
 **Bem-vindo à comunidade Flutter Brasil!**
 
