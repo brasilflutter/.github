@@ -1,0 +1,17 @@
+name: Discord Webhook
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  send_webhook:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Discord notification
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          curl -H "Content-Type: application/json" \
+               -d "{\"content\": \"🎉 New Issue Created: ${{ github.event.issue.title }} by ${{ github.event.issue.user.login }}\\n${{ github.event.issue.html_url }}\"}" \
+               $DISCORD_WEBHOOK_URL
+
