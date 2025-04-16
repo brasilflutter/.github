@@ -27,7 +27,7 @@ Este é um espaço para desenvolvedores Flutter no Brasil se conectarem, compart
 
 -   **Documentação do Flutter:**  [https://docs.flutter.dev/](https://docs.flutter.dev/)
 -   **Comunidade Flutter:**  [https://flutter.dev/community](https://flutter.dev/community)
--   **Nosso website:**  [www.flutterbrasil.com.br](https://www.flutterbrsil.com)
+-   **Nosso website:**  [www.flutterbrasil.com.br](https://www.flutterbrasil.com)
 
 Esperamos que você se junte à nossa comunidade e aproveite os recursos que temos a oferecer!
 
